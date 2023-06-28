@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.icono-modulo{
+    transform: scale(2);
+    margin-left: 15px; 
+    margin-right:25px    
+}
+.ancho{
+    width: 100%;
+}
+.boton{
+    height:30px;
+    font-size: large;
+}
+
+.cabecera-tabla{
+    background-color:#3f51B5 !important;   
+    color:white !important;
+    align-content: center;
+    justify-content: center;
+}
