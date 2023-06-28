@@ -1,0 +1,12 @@
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\bin\Debug\net6.0\EmployeeSearchEntities.deps.json
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\bin\Debug\net6.0\EmployeeSearchEntities.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\bin\Debug\net6.0\EmployeeSearchEntities.pdb
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.csproj.AssemblyReference.cache
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.AssemblyInfoInputs.cache
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.AssemblyInfo.cs
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.csproj.CoreCompileInputs.cache
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\refint\EmployeeSearchEntities.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\EmployeeSearchEntities.pdb
+D:\Pruebas\EmployeeSearch\EmployeeSearchEntities\obj\Debug\net6.0\ref\EmployeeSearchEntities.dll

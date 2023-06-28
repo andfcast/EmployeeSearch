@@ -1,0 +1,17 @@
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchBusinessLogic.deps.json
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchBusinessLogic.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchBusinessLogic.pdb
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchDataAccess.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchEntities.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchDataAccess.pdb
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\bin\Debug\net6.0\EmployeeSearchEntities.pdb
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.csproj.AssemblyReference.cache
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.AssemblyInfoInputs.cache
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.AssemblyInfo.cs
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.csproj.CoreCompileInputs.cache
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.csproj.CopyComplete
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\refint\EmployeeSearchBusinessLogic.dll
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\EmployeeSearchBusinessLogic.pdb
+D:\Pruebas\EmployeeSearch\EmployeeSearchBusinessLogic\obj\Debug\net6.0\ref\EmployeeSearchBusinessLogic.dll
